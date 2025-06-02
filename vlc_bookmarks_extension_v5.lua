@@ -9,7 +9,7 @@ function descriptor()
     return {
         title = "Video Bookmarks",
         version = "1.0",
-        author = "Video Navigator",
+        author = "Kostyantin Ovsiannykov",
         url = "",
         shortdesc = "Navigate video using timestamps from text file",
         description = "Reads timestamps from text file and allows jumping to specific moments in video",
